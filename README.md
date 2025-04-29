@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Renuka Nandikolla (@Renuma1618) 👋
 
-👀 I’m interested in software engineering, frontend development, cloud technologies, and machine learning.<br>
+👀 I’m interested in software developement, frontend development, cloud technologies, and machine learning.<br>
 🌱 I’m currently learning more about advanced React.js concepts, state management, and cloud integration with AWS.<br>
 💞️ I’m looking to collaborate on frontend projects or any open-source initiatives related to web development and UI/UX design.<br>
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/renuka-nandikolla) | [Email](mailto:renuka1682003@gmail.com)<br>
