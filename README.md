@@ -1,8 +1,9 @@
 # 💫 About Me:
 Hi there, I'm Renuka Nandikolla (@Renuma1618) 👋
 
-👀 I’m interested in software developement, frontend development, cloud technologies, and machine learning.<br>
-🌱 I’m currently learning more about advanced React.js concepts, state management, and cloud integration with AWS.<br>
+👀 Frontend-Focused Full Stack Developer skilled in React.js, Next.js, TypeScript, and JavaScript.<br>
+🌱 Experienced in building responsive, user-centric web apps and integrating APIs.<br>
+🚀 Currently growing my skills in Java to become a complete full-stack developer.
 💞️ I’m looking to collaborate on frontend projects or any open-source initiatives related to web development and UI/UX design.<br>
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/renuka-nandikolla) | [Email](mailto:renuka1682003@gmail.com)<br>
 ⚡ Fun fact: I love exploring new tech stacks and challenging myself with complex projects—recently deployed a multitier web app on AWS!
