@@ -1,10 +1,9 @@
 # 💫 About Me:
 Hi there, I'm Renuka Nandikolla (@Renuma1618) 👋
 
-👀 Frontend-Focused Full Stack Developer skilled in React.js, Next.js, TypeScript, and JavaScript.<br>
+👀  Full Stack Developer skilled in React.js, Next.js, TypeScript, JavaScript and Java, Springboot , Microservices.<br>
 🌱 Experienced in building responsive, user-centric web apps and integrating APIs.<br>
-🚀 Currently growing my skills in Java to become a complete full-stack developer.
-💞️ I’m looking to collaborate on frontend projects or any open-source initiatives related to web development and UI/UX design.<br>
+💞️ I’m looking to collaborate on fullstack projects .<br>
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/renuka-nandikolla) | [Email](mailto:renuka1682003@gmail.com)<br>
 ⚡ Fun fact: I love exploring new tech stacks and challenging myself with complex projects—recently deployed a multitier web app on AWS!
 
@@ -31,6 +30,14 @@ Hi there, I'm Renuka Nandikolla (@Renuma1618) 👋
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<!-- Backend / Server-side -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/microservices-%23007ACC.svg?style=for-the-badge&logo=none&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Renuma1618&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
