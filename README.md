@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Renuka Nandikolla (@Renuma1618) 👋
 
-👀  Full Stack Developer skilled in React.js, Next.js, TypeScript, JavaScript and Java, Springboot , Microservices.<br>
+👀  Full Stack Developer skilled in React.js, Next.js, TypeScript, JavaScript and Java, Springboot , Microservices, Node.js , Express.js.<br>
 🌱 Experienced in building responsive, user-centric web apps and integrating APIs.<br>
 💞️ I’m looking to collaborate on fullstack projects .<br>
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/renuka-nandikolla) | [Email](mailto:renuka1682003@gmail.com)<br>
